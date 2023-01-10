@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942397884512",
+    "project_id": "lovebirds-4be2b",
+    "storage_bucket": "lovebirds-4be2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942397884512:android:17b314bbc490332af65b05",
+        "android_client_info": {
+          "package_name": "com.kencan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942397884512-krglppj1funnqm5seob2nv6prdu4t8fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsc_Y4upou-SJm6PgwIBrWgBqpwiipAGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942397884512-krglppj1funnqm5seob2nv6prdu4t8fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
