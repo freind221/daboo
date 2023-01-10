@@ -1,10 +1,10 @@
 
-# kencan
+# F.R.I.E.N.D.S
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
   <strong>
-    Made with ❤️ by Dokkan Agency
+    Made with ❤️ by Mchils Developers
   </strong>
   <p>
     This is the documentation of Flutter Applications.
